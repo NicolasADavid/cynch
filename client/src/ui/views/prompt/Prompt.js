@@ -34,7 +34,6 @@ export function Prompt() {
             <p>
                 {promptAnalysis}
             </p>
-            <p>asdfasdfasf</p>
         </div>
     );
 }
